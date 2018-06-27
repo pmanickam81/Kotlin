@@ -1,7 +1,6 @@
 package com.demo.datatype
 
 import com.demo.java.Sample
-import sun.font.TrueTypeFont
 
 fun main(args: Array<String>) {
     val myInt = 10
